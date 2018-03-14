@@ -11,7 +11,7 @@ categories: machine-learning programming models
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; *Support vector machines:*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support Vector Machines are a type of *`statistical classification`* that fall within the class of *`kernel methods`*. They do so by splitting data into two sets.  For this reason they are considered a type of *`binary linear classifier`* . They may be used to classify data (simply put) by drawing a line (or a hyperplane) through something like a scatter plot to divide one set of the data from another.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Support Vector Machines` are a type of *`statistical classification`* that fall within the class of *`kernel methods`*. They do so by splitting data into two sets.  For this reason they are considered a type of *`binary linear classifier`* . They may be used to classify data (simply put) by drawing a line (or a hyperplane) through something like a scatter plot to divide one set of the data from another.
 
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Kernel Methods:*
