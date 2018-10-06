@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "map_cons, and the beauties of functional programming."
+title:  "Yay for map_cons"
 date:   2017-12-10 03:37:00 -0700
 categories: programming ruby
 ---
