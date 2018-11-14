@@ -2,12 +2,13 @@
 layout: splash
 ---
 
-
 <div class="home">
 
-  <video autoplay muted loop id="splashvid">
-    <source src="/assets/videos/Typewriter.mp4" type="video/mp4">
-  </video>
+  <div id="vid-container">
+    <video width="100%" autoplay muted loop id="splashvid">
+      <source src="/assets/videos/Typewriter.mp4" type="video/mp4">
+    </video>
+  </div>
 
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
