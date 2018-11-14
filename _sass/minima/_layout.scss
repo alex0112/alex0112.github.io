@@ -180,7 +180,6 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background: aliceblue;
 }
 
 
@@ -188,7 +187,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+    //padding: $spacing-unit 0;
   flex: 1;
 }
 
