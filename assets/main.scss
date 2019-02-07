@@ -4,6 +4,9 @@
 
 @import "minima";
 
+
+/* Splash */
+
 #video-title {
     font-family: Didot;
     position: absolute;
@@ -12,4 +15,24 @@
     color: #f1f1f1;
     width: 100%;
     padding: 20px;
+}
+
+
+
+.post-content {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+/* Sciences Layout */
+.science {
+    font-family: "Helvetica Neue";
+
+    .post-title {
+    }
+
+    .post-content {
+    }
+		     
+
 }
