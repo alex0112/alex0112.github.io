@@ -2,7 +2,7 @@
 layout: post
 title:  "More than true"
 date:   2018-09-12 06:00:00 -0700
-categories: writing literacy fairy-tales
+tags: writing literacy fairy-tales
 ---
 _(Literacy Narrative written for English 1010)_
 

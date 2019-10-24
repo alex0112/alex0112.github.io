@@ -2,7 +2,7 @@
 layout: default
 title:  "Simple Glossary of Machine Learning terms"
 date:   2018-03-13 06:00:00 -0700
-categories: machine-learning programming models
+tags: machine-learning programming models
 ---
 
 *What follows is a copy of my notes on machine learning terms. These notes follow a tree structure indicated by indentation level.*
@@ -29,7 +29,7 @@ categories: machine-learning programming models
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Statistical classification:*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sorting data into two or more categories on the basis of a training set of data.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sorting data into two or more tags on the basis of a training set of data.
 
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Binary linear classifier:*

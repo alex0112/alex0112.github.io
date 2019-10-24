@@ -2,7 +2,7 @@
 layout: post
 title:  "map_cons, and the beauties of functional programming."
 date:   2017-12-10 03:37:00 -0700
-categories: programming ruby
+tags: programming ruby
 ---
 
 I wrote this function to meet the requirements of the [first advent of code challenge.][advent1]

@@ -2,7 +2,7 @@
 layout: default
 title:  "The Significance of Cryptocurrency and Blockchain Technology"
 date:   2018-05-15 06:00:00 -0700
-categories: blockchain social-contract money bitcoin
+tags: blockchain social-contract money bitcoin
 ---
 
 When you go to a store or shop online, the information about your account, how much money you have, and who it should be processed with go through a central authority like a bank.  If you and I wish to exchange money with one another, we must rely on a third party.  This works fine if we both agree to trust that third party.

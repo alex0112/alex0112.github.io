@@ -2,7 +2,7 @@
 layout: post
 title:  "A Decriminalized Approach to Drug Abuse"
 date:   2018-05-01 06:00:00 -0700
-categories: drug-abuse policy
+tags: drug-abuse policy
 ---
 
 _(Written for COMM 1010)_
