@@ -1,5 +1,5 @@
 ---
-layout: sciences_post
+layout: default
 title:  "The Significance of Cryptocurrency and Blockchain Technology"
 date:   2018-05-15 06:00:00 -0700
 categories: blockchain social-contract money bitcoin

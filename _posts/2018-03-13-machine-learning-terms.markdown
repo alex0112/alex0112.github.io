@@ -1,5 +1,5 @@
 ---
-layout: sciences_post
+layout: default
 title:  "Simple Glossary of Machine Learning terms"
 date:   2018-03-13 06:00:00 -0700
 categories: machine-learning programming models
