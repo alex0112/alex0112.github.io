@@ -97,9 +97,7 @@ As for how we get that array, let's look at the correct solution to the problem.
 
 # A right way:
 
-Introducing `.each_cons`.  A powerful way of treating our list as if it's a linked list.  And really for a history lesson we should talk about *lisp*.
-
-There are three parts to a linked list:  the *car*, the *cons*, and the *cdr*.  
+Introducing `.each_cons`... 
 
 
 
