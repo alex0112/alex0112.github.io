@@ -6,7 +6,7 @@
 $accent: #FF0F00;
 $image-size: 100px;
 
-$max-width: 740px;
+$max-width: 1000px;
 $med-width: 600px;
 $small-width: 480px;
 
@@ -170,7 +170,7 @@ pre { // Originally code { ... }
 //  typography
 
 .content {
-    line-height: 1.5;
+    line-height: 2;
     ol {
         counter-reset: list;
     }
