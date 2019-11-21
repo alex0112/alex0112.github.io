@@ -9,7 +9,7 @@ layout: default
         {{ post.title }}
     </a>
     <div class="post-details">
-        <b>{{ post.date | date: "%d - %m - %Y" }}</b>
+        <b>{{ post.date | date: "%m - %d - %Y" }}</b>
         <br>
         {% for tag in post.tags %}
             {% if post.tags.first == tag %}
