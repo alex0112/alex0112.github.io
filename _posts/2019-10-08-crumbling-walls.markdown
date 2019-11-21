@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Crumbling Walls"
-date:   2018-05-15 06:00:00 -0700
+date:   2019-08-15 06:00:00 -0700
 tags: berlin-wall history ronald-reagan
 ---
 ### A Hypothetical Journey
